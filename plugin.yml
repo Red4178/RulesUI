@@ -1,1 +1,10 @@
 name: RulesUI
+version: 1.0.0
+api: 3.25.0
+author: Red4178
+main: RulesUI\Main
+
+commands:
+  rules:
+    description: "View Server rules !"
+
